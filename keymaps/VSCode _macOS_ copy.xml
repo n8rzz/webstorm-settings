@@ -1,0 +1,20 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+  </action>
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+</keymap>

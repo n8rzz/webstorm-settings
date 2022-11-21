@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="build_and_deploy_to_blue_green" type="AUTO_DETECTED" />
+      <mapping pattern="haste-map-8bb935559b20e52a92a7529b7bd4f4c5-0585d019fe1baa6451b4f39cd89ac42c-c732fc35e7ad416354e7d6f5f5882e15" type="AUTO_DETECTED" />
+      <mapping pattern="env" type="AUTO_DETECTED" />
+      <mapping pattern="TimelineKeyRow" type="AUTO_DETECTED" />
+      <mapping pattern=".env-version-parallax-stage" type="PLAIN_TEXT" />
+      <mapping pattern=".env-version-parallax-staging" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+    </extensionMap>
+  </component>
+</application>
